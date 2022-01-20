@@ -1,0 +1,12 @@
+{
+  "name": "algoritmos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "Primeira_Questao": "node ./exe1.js",
+    "Terceira_Questao": "node ./exe3.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
