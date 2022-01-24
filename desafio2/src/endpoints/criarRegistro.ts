@@ -1,5 +1,5 @@
 import { Request, Response } from "express"
-import { connection } from "../connection"
+import { connection } from "../data/connection"
 import { cotacaoInfo } from "../services/cotacaoInfo"
 import { Conversao, MOEDA } from "../types/types"
 
