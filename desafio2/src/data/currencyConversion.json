@@ -1,0 +1,16 @@
+[
+	{
+		"id" : "1642688216186",
+		"moedaOriginal" : "USD",
+		"moedaDaConversao" : "BRL",
+        "valorEnviado":4,
+        "valorConvertido":21.64
+	},
+	{
+        "id" : "1642688365051",
+		"moedaOriginal" : "USD",
+		"moedaDaConversao" : "BRL",
+        "valorEnviado":1,
+        "valorConvertido":5.41
+	}
+] 
