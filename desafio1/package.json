@@ -1,11 +1,12 @@
 {
-  "name": "Cowala-Software",
+  "name": "cowala-software",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "dev": "ts-node-dev ./src/index.ts",
-		"start": "tsc && node ./build/index.js"
+		"start": "tsc && node ./build/index.js",
+    "migrations": "tsnd ./src/data/migrations.ts"
   },
   "repository": {
     "type": "git",
